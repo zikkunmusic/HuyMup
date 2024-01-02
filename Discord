@@ -1,0 +1,17 @@
+
+{
+    "name": "Nền Custom",
+    "description": "Mụp",
+    "authors": [
+        {
+            "name": "Huy Mụp",
+            "id": "1037011791538028544"
+        }
+    ],
+
+    "background": {
+        "blur": ,
+        "url": "https://media.discordapp.net/attachments/1190359665503113308/1190629262470938653/IMG_4021.jpg",
+        "alpha": 0.8
+    }
+}
